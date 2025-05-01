@@ -52,6 +52,8 @@ Ultimately, I’m looking for a way to turn my passion into a profession.
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGreenT)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Tools & Technologies
 
 ```plaintext
