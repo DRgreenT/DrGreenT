@@ -1,4 +1,4 @@
-v# Thomas Just
+# Thomas Just
 
 <p align="center">
   <img src="https://github.com/DRgreenT/DrGreenT/blob/master/banner_1.gif" alt="Born in 1983 in Germany – now living under the Greek sun 🇬🇷" width="1000"/>
@@ -37,7 +37,7 @@ Other Skills:  Network basics, electronics, PC building & maintenance
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="center">
   <a href="https://github.com/DrGreenT" target="_blank">
