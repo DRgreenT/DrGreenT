@@ -34,6 +34,7 @@ Other Skills:  Network basics, electronics, PC building & maintenance
   <img src="https://metrics.lecoq.io/DrGreenT" width="100%"/>
 </p>
 -->
+
 ---
 
 ### Connect with me
@@ -43,3 +44,5 @@ Other Skills:  Network basics, electronics, PC building & maintenance
   <a href="https://www.linkedin.com/in/thomas-just-5136772a5/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/></a>
   <a href="https://soundcloud.com/thomasjust" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="SoundCloud" height="40"/></a>
 </p>
+
+---
