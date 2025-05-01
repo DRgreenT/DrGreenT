@@ -1,3 +1,28 @@
+### Hi there 👋, Thomas
+#### Born in 1983 in Germany – now living under the Greek sun 🇬🇷  
+![Born in 1983 in Germany – now living under the Greek sun 🇬🇷  ](https://github.com/DRgreenT/DrGreenT/blob/master/banner_1.gif)
+
+I'm a passionate self-learner with a growing interest in all things computer-related.  I started learning programming in mid-2023 – and I’ve been hooked ever since!
+My journey into programming began with **C#**, and I've also taken my first steps into **JavaScript** and **C++**.
+
+Skills: C# / C++ / JS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DrGreenT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/thomas-just-5136772a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/thomasjust)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DrGreenT)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/DrGreenT)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=DrGreenT)  
+
+
+
 # 👋 Hi there, I'm Thomas
 
 🧔‍♂️ Born in 1983 in Germany – now living under the Greek sun 🇬🇷  
