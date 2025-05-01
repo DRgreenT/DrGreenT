@@ -33,6 +33,8 @@ Other Skills:  Network basics, electronics, PC building & maintenance
 <p align="center">
   <img src="https://metrics.lecoq.io/DrGreenT" width="100%"/>
 </p>
+https://arturssmirnovs.github.io/github-profile-readme-generator/
+https://github.com/anuraghazra/github-readme-stats
 -->
 
 ---
