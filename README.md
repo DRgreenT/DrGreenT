@@ -7,33 +7,44 @@
 ---
 
 ### Hi there 👋, Thomas
-#### Born in 1983 in Germany – now living under the Greek sun 🇬🇷  
+``` C#
+using Thomas.Just;
+using Learning.Code.NET;
+using Passion;
+using Networking;
+using Music.Making;
+using Life.Experience;
 
-I'm a passionate self-learner with a growing interest in all things computer-related.  I started learning programming in mid-2023 – and I’ve been hooked ever since!
-Ultimately, I’m looking for a way to turn my passion into a profession.
+namespace MyJourney
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var thomas = new SelfLearner("Thomas");
+            thomas.BornIn(1983, "Germany");
+            thomas.CurrentlyIn("Greece");
+            thomas.StartedCodingIn(2023);
+            
+            thomas.Learn("C#","Linux" ,"Networks");
+            thomas.Explore(new[] { "JavaScript", "C++" });
+            
+            thomas.Create("ServerNetworkAPI");
+            thomas.Modding("CaptainOfIndustry");
+
+            thomas.ShareMusic("https://soundcloud.com/thomasjust");
+
+            Console.WriteLine("Seeking collaborators, mentors, and fellow tech enthusiasts...");
+            Console.WriteLine("Mission: Turn passion into profession 💻🎯");
+        }
+    }
+}
+
+```
 
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DrGreenT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/thomas-just-5136772a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/thomasjust) 
-
----
-
-## 🌱 Currently Learning
-
-- .NET & cross-platform development (MAUI, ASP.NET)  
-- Network scanning & automation  
-- Linux system internals  
-- Building full-stack applications 
-- IT basics and certification prep
-
----
-
-## 🔧 Current Projects
-
-- 🧩 **Modding**: *Captain of Industry*  
-- 🌐 **Networking**: *ServerNetworkAPI* – a tool for local device discovery and monitoring
-
----
 
 🎯 **Currently preparing for the CompTIA A+ certification**
 
