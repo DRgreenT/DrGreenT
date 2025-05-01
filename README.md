@@ -7,9 +7,6 @@
     Tools:         Visual Studio 2022, VS Code, Code::Blocks, .NET, Git, SQLite, Unity
     Other Skills:  Network basics, electronics, PC building & maintenance
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### Hi there 👋, Thomas
@@ -17,32 +14,46 @@
 ``` C#
 using Thomas.Just;
 using Learning.Code.NET;
+using Learning.Enviroment.Linux;
+using Networks;
 using Passion;
-using Networking;
 using Music.Making;
 using Life.Experience;
 
-namespace MyJourney
+namespace MyLife
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var thomas = new SelfLearner("Thomas");
-            thomas.BornIn(1983, "Germany");
-            thomas.CurrentlyIn("Greece");
-            thomas.StartedCodingIn(2023);
-            
-            thomas.Learn("C#","Linux" ,"Networks");
+            var thomas = new SelfLearner("Thomas")
+            {
+                BornIn = new DateTime(1983, 09, *),
+                From = "Germany",
+                LivingIn = "Greece",
+                StartedCoding = new DateTime(2023, 3, 1),
+                Interests = new[]
+                {
+                    "Networking", "Network Security",
+                    "Linux", "Electronics", "PC Hardware",
+                    "Music Production"
+                },
+                Mission = "Turn passion into profession 💻🎯"
+            };
+
+            thomas.Learn(new[] { "C#", "Linux", "Networks", ".NET", "System Automation" });
             thomas.Explore(new[] { "JavaScript", "C++" });
-            
+
             thomas.Create("ServerNetworkAPI");
-            thomas.Modding("CaptainOfIndustry");
+
+            thomas.Modding("Captain of Industry");
 
             thomas.ShareMusic("https://soundcloud.com/thomasjust");
+            thomas.ConnectWith("like-minded developers, makers, and learners");
+
+            thomas.Seeking(new[] { "wisdom", "mentors", "job opportunities", "meaningful collaboration" })
 
             Console.WriteLine("Seeking collaborators, mentors, and fellow tech enthusiasts...");
-            Console.WriteLine("Mission: Turn passion into profession 💻🎯");
         }
     }
 }
@@ -56,7 +67,8 @@ namespace MyJourney
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrGreenT)](https://github.com/ryo-ma/github-profile-trophy)
-
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true)  
