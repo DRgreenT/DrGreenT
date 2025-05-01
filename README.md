@@ -19,8 +19,8 @@ I'm a passionate self-learner with a growing interest in all things computer-rel
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrGreenT)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true)  
 
