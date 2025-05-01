@@ -1,5 +1,5 @@
+### Thomas Just
 ![Born in 1983 in Germany – now living under the Greek sun 🇬🇷  ](https://github.com/DRgreenT/DrGreenT/blob/master/banner_1.gif)
-
 ---
 ```plaintext
     Languages:     C#, JavaScript, C++
@@ -8,57 +8,6 @@
     Other Skills:  Network basics, electronics, PC building & maintenance
 ```
 ---
-
-### Hi there 👋, Thomas
-
-``` C#
-using Thomas.Just;
-using Learning.Code.NET;
-using Learning.Enviroment.Linux;
-using Networks;
-using Passion;
-using Music.Making;
-using Life.Experience;
-
-namespace MyLife
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var thomas = new SelfLearner("Thomas")
-            {
-                BornIn = new DateTime(1983, 09, *),
-                From = "Germany",
-                LivingIn = "Greece",
-                StartedCoding = new DateTime(2023, 3, 1),
-                Interests = new[]
-                {
-                    "Networking", "Network Security",
-                    "Linux", "Electronics", "PC Hardware",
-                    "Music Production"
-                },
-                Mission = "Turn passion into profession 💻🎯"
-            };
-
-            thomas.Learn(new[] { "C#", "Linux", "Networks", ".NET", "System Automation" });
-            thomas.Explore(new[] { "JavaScript", "C++" });
-
-            thomas.Create("ServerNetworkAPI");
-
-            thomas.Modding("Captain of Industry");
-
-            thomas.ShareMusic("https://soundcloud.com/thomasjust");
-            thomas.ConnectWith("like-minded developers, makers, and learners");
-
-            thomas.Seeking(new[] { "wisdom", "mentors", "job opportunities", "meaningful collaboration" })
-
-            Console.WriteLine("Seeking collaborators, mentors, and fellow tech enthusiasts...");
-        }
-    }
-}
-
-```
 
 ---
 <!--
