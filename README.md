@@ -7,24 +7,27 @@
 
 ## 🧠 About Me
 
-I'm a passionate self-learner with a growing interest in all things computer-related. My journey into programming began with **C#**, and I've also taken a few first steps into **JavaScript** and **C++**.
+I'm a passionate self-learner with a growing interest in all things computer-related.  
+My journey into programming began with **C#**, and I've also taken my first steps into **JavaScript** and **C++**.
 
-Besides coding, I’m fascinated by:
+Besides coding, I’m deeply interested in:
 
-- 🧩 Networking and network security  
+- 🧩 Networking & network security  
 - 🔌 Electronics and PC hardware  
 - 🛠️ DIY tech projects and troubleshooting  
-- 🎵 Making music in my spare time ([My SoundCloud](https://soundcloud.com/thomasjust))
+- 🎵 Music creation ([My SoundCloud](https://soundcloud.com/thomasjust))
 
 ---
 
 ## 🌱 Currently Learning
 
-- .NET
+- .NET & cross-platform development (MAUI, ASP.NET)  
 - Network scanning & automation  
 - Linux system internals  
-- Building full-stack applications  
-- IT fundamentals with a professional focus
+- Building full-stack applications 
+- IT basics and certification prep
+
+🎯 **Currently preparing for the CompTIA A+ certification**
 
 ---
 
@@ -32,19 +35,27 @@ Besides coding, I’m fascinated by:
 
 I'm hoping to connect with like-minded people who are passionate about:
 
-- Programming & open source  
+- Programming & open-source  
 - Electronics & computer systems  
 - Security & infrastructure  
-- Tech hobbies turned into careers
+- Turning tech hobbies into careers
 
-I’d love to collaborate, learn together, or even contribute to something meaningful. Ultimately,<br> I’m looking for a way to turn my passion into a profession.
+I'd love to **collaborate**, **learn together**, or contribute to something meaningful.  
+Ultimately, I’m looking for a way to turn my passion into a profession.
+
+---
+
+## 🔧 Current Projects
+
+- 🧩 **Modding**: *Captain of Industry*  
+- 🌐 **Networking**: *ServerNetworkAPI* – a tool for local device discovery and monitoring
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ```plaintext
-Languages:    C#, JavaScript, C++
-Environments: Linux, Windows
-Tools:        Visual Studio 2022 & Code, .NET, Git, SQLite
-Other:        Network basics, electronics, PC building
+Languages:     C#, JavaScript, C++
+Environments:  Linux (Debian-based), Windows 11
+Tools:         Visual Studio 2022, VS Code, Code::Blocks, .NET, Git, SQLite, Unity
+Other Skills:  Network basics, electronics, PC building & maintenance
