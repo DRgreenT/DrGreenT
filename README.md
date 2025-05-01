@@ -22,11 +22,15 @@
 ---
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=DrGreenT](https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT)" alt="Beschreibung" width="400"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DrGreenT" alt="" width="400"/>
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true" alt="" width="400"/>
+</p>
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrGreenT)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,7 +38,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true)
 
-<!--
+
 ![GitHub metrics](https://metrics.lecoq.io/DrGreenT)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DrGreenT)-->  
