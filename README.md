@@ -16,7 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DrGreenT" alt="" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT" alt="" width="400"/>
 </p>
 
 ---
