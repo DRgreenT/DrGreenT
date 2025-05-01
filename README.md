@@ -8,9 +8,11 @@
 
 ```plaintext
 Languages:     C#, JavaScript, C++
-Environments:  Linux (Debian-based), Windows 11
-Tools:         Visual Studio 2022, VS Code, Code::Blocks, .NET, Git, SQLite, Unity
-Other Skills:  Network basics, electronics, PC building & maintenance
+Environments:  Linux (Debian-based), Windows 11/10, MacOS
+Tools:         Visual Studio 2022, VS Code, Code::Blocks, .NET, Git, SQLite, Unity, Adobe CS, Blender, 
+Other Skills:  Network basics, PC building & maintenance
+Certificates:  MicrosoftFoundational C#
+Cert. prep.:   CompTIA A+ 
 ```
 
 ---
