@@ -1,7 +1,7 @@
-# Thomas Just
+v# Thomas Just
 
 <p align="center">
-  <img src="https://github.com/DRgreenT/DrGreenT/blob/master/banner_1.gif" alt="Born in 1983 in Germany – now living under the Greek sun 🇬🇷" width="800"/>
+  <img src="https://github.com/DRgreenT/DrGreenT/blob/master/banner_1.gif" alt="Born in 1983 in Germany – now living under the Greek sun 🇬🇷" width="1000"/>
 </p>
 
 ---
@@ -43,11 +43,9 @@ Other Skills:  Network basics, electronics, PC building & maintenance
   <a href="https://github.com/DrGreenT" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thomas-just-5136772a5/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://soundcloud.com/thomasjust" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="SoundCloud" height="40"/>
   </a>
