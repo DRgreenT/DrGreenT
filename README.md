@@ -26,27 +26,20 @@ Other Skills:  Network basics, electronics, PC building & maintenance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default" width="600"/>
 </p>
-
+<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DrGreenT&theme=default" width="600"/>
 </p>
-
 <p align="center">
   <img src="https://metrics.lecoq.io/DrGreenT" width="100%"/>
 </p>
-
+-->
 ---
 
 ### Connect with me
 
 <p align="center">
-  <a href="https://github.com/DrGreenT" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thomas-just-5136772a5/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://soundcloud.com/thomasjust" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="SoundCloud" height="40"/>
-  </a>
+  <a href="https://github.com/DrGreenT" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/></a>
+  <a href="https://www.linkedin.com/in/thomas-just-5136772a5/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/></a>
+  <a href="https://soundcloud.com/thomasjust" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="SoundCloud" height="40"/></a>
 </p>
