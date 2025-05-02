@@ -18,8 +18,8 @@ Cert. prep.:   CompTIA A+
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT&layout=compact&langs_count=16&theme=default&bg_color=00000000" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default&bg_color=00000000" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT&layout=compact&langs_count=16&theme=default&bg_color=00000000" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default&bg_color=00000000" width="500"/>
 </p>
 
 <p align="center">
