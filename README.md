@@ -22,11 +22,11 @@ Cert. prep.:   CompTIA A+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DrGreenT&margin-w=10&margin-h=10" width="1024"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default&bg_color=00000000" width="512"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default&bg_color=00000000" width="512"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DrGreenT&margin-w=10&margin-h=10" width="1024"/>
 </p>
 <!--
 <p align="center">
