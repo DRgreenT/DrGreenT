@@ -28,10 +28,8 @@ Cert. prep.:   CompTIA A+
 
 ---
 
-
-
+### Connect with me 
 <p align="center">
-  ### Connect with me 
   <a href="https://github.com/DrGreenT" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/></a>
   <a href="https://www.linkedin.com/in/thomas-just-5136772a5/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/></a>
   <a href="https://soundcloud.com/thomasjust" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="SoundCloud" height="40"/></a>
