@@ -18,26 +18,16 @@ Cert. prep.:   CompTIA A+
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT&layout=compact&langs_count=16&theme=default&bg_color=00000000&count_private=true" width="512"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT&layout=compact&langs_count=16&theme=default&bg_color=00000000" width="512"/><img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default&bg_color=00000000" width="512"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default&bg_color=00000000" width="512"/>
+
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DrGreenT&margin-w=10&margin-h=10" width="1024"/>
 </p>
-<!--
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DrGreenT&theme=default" width="600"/>
-</p>
-<p align="center">
-  <img src="https://metrics.lecoq.io/DrGreenT" width="100%"/>
-</p>
-https://arturssmirnovs.github.io/github-profile-readme-generator/
-https://github.com/anuraghazra/github-readme-stats
--->
 
 ---
 
@@ -52,3 +42,14 @@ https://github.com/anuraghazra/github-readme-stats
 </p>
 
 ---
+
+<!--
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DrGreenT&theme=default" width="600"/>
+</p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/DrGreenT" width="100%"/>
+</p>
+https://arturssmirnovs.github.io/github-profile-readme-generator/
+https://github.com/anuraghazra/github-readme-stats
+-->
