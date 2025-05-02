@@ -40,7 +40,7 @@ Cert. prep.:   CompTIA A+
 ---
 
 <p align="center">
-  <img src="https://github.com/DRgreenT/DrGreenT/blob/master/banner_low.gif" alt="" width="1024"/>
+  <img src="https://github.com/DRgreenT/DrGreenT/blob/master/banner_low.png" width="1024"/>
 </p>
 <!--
 <p align="center">
