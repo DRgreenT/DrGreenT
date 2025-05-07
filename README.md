@@ -38,14 +38,14 @@ Cert. prep.:   CompTIA A+
 </p>
 
 ---
-
+<!--
 <p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=DrGreeT)](https://git.io/streak-stats)
 </p>
 <p align="center">
   <img src="https://metrics.lecoq.io/DrGreenT" width="100%"/>
 </p>
-<!--
+
 https://arturssmirnovs.github.io/github-profile-readme-generator/
 https://github.com/anuraghazra/github-readme-stats
 -->
