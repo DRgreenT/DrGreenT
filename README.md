@@ -29,6 +29,7 @@ Cert. prep.:   CompTIA A+
 ---
 
 <p align="center">
+  [![wakatime](https://wakatime.com/badge/user/206785d3-aa0a-480a-83f1-11a1afc33337.svg)](https://wakatime.com/@206785d3-aa0a-480a-83f1-11a1afc33337)
   <a href="https://github.com/DrGreenT" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/></a>
   <a href="https://www.linkedin.com/in/thomas-just-5136772a5/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/></a>
   <a href="https://soundcloud.com/thomasjust" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="SoundCloud" height="40"/></a>
