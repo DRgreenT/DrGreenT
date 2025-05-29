@@ -14,11 +14,16 @@ Other Skills:  Network basics, PC building & maintenance
 Certificates:  MicrosoftFoundational C#
 Cert. prep.:   CompTIA A+ 
 ```
+---
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/206785d3-aa0a-480a-83f1-11a1afc33337.svg"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://wakatime.com/@206785d3-aa0a-480a-83f1-11a1afc33337"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT&layout=compact&langs_count=16&theme=default&bg_color=00000000" width="380"/>
   <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default&bg_color=00000000" width="500"/>
 </p>
