@@ -18,6 +18,7 @@ Cert. prep.:   CompTIA A+
 ---
 
 <p align="center">
+  <img src="https://wakatime.com/@206785d3-aa0a-480a-83f1-11a1afc33337"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrGreenT&layout=compact&langs_count=16&theme=default&bg_color=00000000" width="380"/>
   <img src="https://github-readme-stats.vercel.app/api?username=DrGreenT&show_icons=true&count_private=true&theme=default&bg_color=00000000" width="500"/>
 </p>
@@ -29,7 +30,7 @@ Cert. prep.:   CompTIA A+
 ---
 
 <p align="center">
-  <a href="https://wakatime.com/badge/user/206785d3-aa0a-480a-83f1-11a1afc33337.svg"><img src="https://wakatime.com/@206785d3-aa0a-480a-83f1-11a1afc33337"></a>
+  
   <a href="https://github.com/DrGreenT" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"/></a>
   <a href="https://www.linkedin.com/in/thomas-just-5136772a5/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"/></a>
   <a href="https://soundcloud.com/thomasjust" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="SoundCloud" height="40"/></a>
