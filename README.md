@@ -16,9 +16,7 @@ Cert. prep.:   CompTIA A+
 ```
 ---
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/206785d3-aa0a-480a-83f1-11a1afc33337.svg"/>
-</p>
+[![wakatime](https://wakatime.com/badge/user/206785d3-aa0a-480a-83f1-11a1afc33337.svg)](https://wakatime.com/@206785d3-aa0a-480a-83f1-11a1afc33337)
 
 ---
 
